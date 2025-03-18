@@ -17,7 +17,7 @@ class ContaBancaria{
     }
 
     get saldo(){
-        return this.saldo
+        return this.saldo;
     }
 
 }
