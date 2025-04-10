@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid
+}
+
+
+.camel{
+    border-color: #fc1313;
+}
+
+.cat{
+    border-color: #085eff;
+}
+
+.horse{
+    border-color: #15ff00;
+}	
